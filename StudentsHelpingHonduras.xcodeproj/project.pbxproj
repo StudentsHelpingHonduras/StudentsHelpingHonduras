@@ -19,6 +19,7 @@
 		7F8B8E9918B5936600427295 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F8B8E8118B5936600427295 /* UIKit.framework */; };
 		7F8B8EA118B5936600427295 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7F8B8E9F18B5936600427295 /* InfoPlist.strings */; };
 		7F8B8EA318B5936600427295 /* StudentsHelpingHondurasTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F8B8EA218B5936600427295 /* StudentsHelpingHondurasTests.m */; };
+		7F8B8EAD18B5A50100427295 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F8B8EAC18B5A50100427295 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		7F8B8E9E18B5936600427295 /* StudentsHelpingHondurasTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StudentsHelpingHondurasTests-Info.plist"; sourceTree = "<group>"; };
 		7F8B8EA018B5936600427295 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7F8B8EA218B5936600427295 /* StudentsHelpingHondurasTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudentsHelpingHondurasTests.m; sourceTree = "<group>"; };
+		7F8B8EAC18B5A50100427295 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			children = (
 				7F8B8E8C18B5936600427295 /* AppDelegate.h */,
 				7F8B8E8D18B5936600427295 /* AppDelegate.m */,
+				7F8B8EAC18B5A50100427295 /* Main.storyboard */,
 				7F8B8E8F18B5936600427295 /* Images.xcassets */,
 				7F8B8E8418B5936600427295 /* Supporting Files */,
 			);
@@ -219,6 +222,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F8B8EAD18B5A50100427295 /* Main.storyboard in Resources */,
 				7F8B8E8818B5936600427295 /* InfoPlist.strings in Resources */,
 				7F8B8E9018B5936600427295 /* Images.xcassets in Resources */,
 			);
